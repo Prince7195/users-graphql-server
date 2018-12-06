@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Bill",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "id": "24",
+      "firstName": "Steve",
+      "age": 22,
+      "companyId": "1"
+    },
+    {
+      "id": "25",
+      "firstName": "Sundar",
+      "age": 23,
+      "companyId": "3"
+    },
+    {
+      "firstName": "Vijay",
+      "age": 23,
+      "id": "hCV3KPA",
+      "companyId": "4"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Mac OS"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Windows OS"
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Chrome OS"
+    },
+    {
+      "id": "4",
+      "name": "DucenIT",
+      "description": "Analance"
+    }
+  ]
+}
